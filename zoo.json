@@ -1,0 +1,46 @@
+{
+  "zoo": [
+    {
+      "id": 1,
+      "jmeno": "ZOO Praha",
+      "druhy": 676,
+      "zvirata": 5049
+    },
+    {
+      "id": 2,
+      "jmeno": "ZOO Brno",
+      "druhy": 306,
+      "zvirata": 1568
+    },
+    {
+      "id": 3,
+      "jmeno": "ZOO Jihlava",
+      "druhy": 146,
+      "zvirata": 671
+    },
+    {
+      "id": 4,
+      "jmeno": "ZOO Olomouc",
+      "druhy": 354,
+      "zvirata": 1861
+    },
+    {
+      "id": 5,
+      "jmeno": "ZOO Dvůr Králové",
+      "druhy": 326,
+      "zvirata": 2339
+    },
+    {
+      "id": 6,
+      "jmeno": "ZOO Zlín",
+      "druhy": 222,
+      "zvirata": 1309
+    },
+    {
+      "id": 7,
+      "jmeno": "ZOO Plzeň",
+      "druhy": 1210,
+      "zvirata": 6991
+    }
+  ]
+}
